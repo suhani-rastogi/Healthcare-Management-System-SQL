@@ -1,4 +1,4 @@
-# Healthcare-Management-System-SQL
+# Healthcare-Management-System
 This project is a comprehensive **SQL-based database system** designed to efficiently manage **patient records**, **doctor information**, **appointments**, and **medical histories** It demonstrates core database design principles, optimized SQL queries, and structured data handling for real-world healthcare applications.
 
 
