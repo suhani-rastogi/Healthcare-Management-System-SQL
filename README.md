@@ -26,8 +26,7 @@ The system enables:
 
 - **Database:** MySQL  
 - **Language:** SQL (DDL + DML)  
-- **Tools:** MySQL Workbench / phpMyAdmin (or any SQL-compatible interface)
-
+- **Tools:** MySQL Workbench 
 
 ## Skills Demonstrated
 
