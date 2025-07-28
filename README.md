@@ -1,5 +1,5 @@
 # Healthcare-Management-System
-This project is a comprehensive **SQL-based database system** designed to efficiently manage **patient records**, **doctor information**, **appointments**, and **medical histories** It demonstrates core database design principles, optimized SQL queries, and structured data handling for real-world healthcare applications.
+A structured SQL-based database for managing patients, doctors, appointments, and medical records, built using MySQL for real-world healthcare operations.
 
 ## Project Overview
 The system enables:
@@ -9,7 +9,6 @@ The system enables:
 - Efficient data querying and manipulation using MySQL
 
 ##  Database Tables
-
 | Table Name        | Description                                      |
 |------------------|--------------------------------------------------|
 | `Patients`        | Stores personal and contact details of patients |
@@ -24,7 +23,6 @@ The system enables:
 - **Tools:** MySQL Workbench 
 
 ## Skills Demonstrated
-
 - Relational Database Design  
 - Foreign Key Relationships & Normalization  
 - SQL Query Optimization  
