@@ -19,7 +19,9 @@ The system enables:
 | `Patients`        | Stores personal and contact details of patients |
 | `Doctors`         | Stores doctor information and specialization    |
 | `Appointments`    | Manages appointment scheduling and links doctors and patients |
-| `Medical_History` | Records treatment, diagnosis, and medical notes |
+| `Prescription`    |	Stores medication details and dosage prescribed during appointments|
+| `Diagnosis`       |	Records diagnoses and medical notes associated with appointments|
+
 
 
 ## Technologies Used
