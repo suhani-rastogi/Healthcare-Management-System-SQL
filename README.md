@@ -1,16 +1,12 @@
 # Healthcare-Management-System
 This project is a comprehensive **SQL-based database system** designed to efficiently manage **patient records**, **doctor information**, **appointments**, and **medical histories** It demonstrates core database design principles, optimized SQL queries, and structured data handling for real-world healthcare applications.
 
-
-
 ## Project Overview
-
 The system enables:
 - Storage and retrieval of detailed patient and doctor records
 - Scheduling and tracking of medical appointments
 - Maintenance of patient medical history
 - Efficient data querying and manipulation using MySQL
-
 
 ##  Database Tables
 
@@ -22,10 +18,7 @@ The system enables:
 | `Prescription`    |	Stores medication details and dosage prescribed during appointments|
 | `Diagnosis`       |	Records diagnoses and medical notes associated with appointments|
 
-
-
 ## Technologies Used
-
 - **Database:** MySQL  
 - **Language:** SQL (DDL + DML)  
 - **Tools:** MySQL Workbench 
